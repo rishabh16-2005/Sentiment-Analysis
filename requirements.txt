@@ -1,2 +1,4 @@
 datasets
 nltk
+sentence_transformers
+torch
