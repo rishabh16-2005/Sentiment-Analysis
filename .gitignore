@@ -1,3 +1,5 @@
 YoutubeCommentsDataSet.csv
 train.csv
 test.csv
+embedded.csv
+tokenizer.json
